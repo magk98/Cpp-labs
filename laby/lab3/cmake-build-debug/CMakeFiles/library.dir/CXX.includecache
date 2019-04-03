@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab3/library.cpp
+library.h
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab3/library.h
+iostream
+-
+string
+-
+
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab3/library.h
+iostream
+-
+string
+-
+
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab3/main.cpp
+library.h
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab3/library.h
+
