@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/Data.cpp.o CMakeFiles/main.dir/Stazysta.cpp.o CMakeFiles/main.dir/Kierownik.cpp.o  -o main liblibrary.a 

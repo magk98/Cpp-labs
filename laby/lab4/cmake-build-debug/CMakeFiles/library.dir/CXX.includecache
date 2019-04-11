@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Data.h
+iostream
+-
+
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Kierownik.cpp
+Kierownik.h
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Kierownik.h
+
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Kierownik.h
+Pracownik.h
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Pracownik.h
+
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Osoba.h
+iostream
+-
+Data.h
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Data.h
+iostream
+-
+string
+-
+sstream
+-
+
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Pracownik.h
+Osoba.h
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/Osoba.h
+

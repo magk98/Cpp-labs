@@ -1,0 +1,4 @@
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/cmake-build-debug/CMakeFiles/library.dir
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/madzia/Desktop/infa/4 semestr/Cpp/laby/lab4/cmake-build-debug/CMakeFiles/main.dir
